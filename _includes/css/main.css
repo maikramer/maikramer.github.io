@@ -261,6 +261,11 @@ section.success {
     transition: all .3s ease-in-out;
 }
 
+.img-responsive {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
